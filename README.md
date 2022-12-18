@@ -2,9 +2,8 @@
 - 👋 Hi, I’m @ziasistani
 - 👀 I’m interested in `C#, Java, Python, Javascript, Distributed, Decentralized, Web3, Blockchain, Security ... `
 - 💞️ I’m looking to collaborate on Web3 Projects
-- 💬 You may call me after connecting on [LinkedIn](https://www.linkedin.com/in/ziasistani/)
-- 📫 You can reach me via : |ziasistani| at |gmail| dot |com|
-- 🔭 I’m working for a startup
+- 💬 You may call or email me after connecting on [LinkedIn](https://www.linkedin.com/in/ziasistani/)
+- 🔭 I’m also working for a startup
 - 😄 Pronouns: He
 - ⚡ A fact: Simplicity wins 
 
