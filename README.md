@@ -1,6 +1,6 @@
 # Hi there 👋
 - 👋 Hi, I’m @ziasistani
-- 👀 I’m interested in `C# and Java Python Javascript Typescript Distributed Decentralized DLT Blockchain Hashgraph P2P Security ... `
+- 👀 I’m interested in `C#, Java, Python, Javascript, Distributed, Decentralized, Web3, Blockchain, Security ... `
 - 💞️ I’m looking to collaborate on Web3 Projects
 - 💬 You may call me after connecting on [LinkedIn](https://www.linkedin.com/in/ziasistani/)
 - 📫 You can reach me via : |ziasistani| at |gmail| dot |com|
